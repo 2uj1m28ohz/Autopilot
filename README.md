@@ -37,7 +37,6 @@ Autopilot[^1] foi desenvolvido para executar rotinas de backup e manutenção do
 - Elevação de privilégios para a execução de algumas sub-rotinas
 
 ## Versões não publicadas
-#### CalVer
 - 22.10.1
 - 22.1.1
 - 21.330.1
@@ -45,7 +44,6 @@ Autopilot[^1] foi desenvolvido para executar rotinas de backup e manutenção do
 - 21.319.1
 - 21.313.1
 - 21.311.1
-#### SemVer
 - 20.6.0-001
 - 19.9.2-001
 - 18.9.3-001
