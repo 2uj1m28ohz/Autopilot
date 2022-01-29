@@ -1,7 +1,7 @@
 ![](https://github.com/2uj1m28ohz/autopilot/blob/main/AutopilotScreen.jpg)
 
 ## Descrição
-Autopilot[^1] foi desenvolvido para executar rotinas de backup e manutenção do sistema.
+Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para executar rotinas de backup e manutenção do sistema.
 
 ## Recursos
 - Backup EVE Online[^2]
@@ -35,8 +35,7 @@ Autopilot[^1] foi desenvolvido para executar rotinas de backup e manutenção do
 - [7-Zip](https://www.7-zip.org) 20.06+
 - Elevação de privilégios para a execução de algumas sub-rotinas
 
-## Como instalar
-Por ser um script, Autopilot não precisa ser instalado. Siga as instruções abaixo:
+## Como Executar
 1. Abra o PowerShell
 2. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script usando o comando **Get-Item D:\Autopilot-22.1.1.ps1 | Unblock-File**
 3. Execute o script com o comando **D:\Autopilot-22.1.1.ps1**
