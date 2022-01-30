@@ -31,7 +31,7 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 ## Requisitos
 - [Windows](https://www.microsoft.com/windows) 10+
 - [Terminal](https://www.github.com/microsoft/terminal) *opcional*
-- [PowerShell](https://www.github.com/powershell/powershell) 7.2+
+- [PowerShell](https://www.github.com/powershell/powershell) 7.2.0+
 - [7-Zip](https://www.7-zip.org) 21.07+
 - Elevação de privilégios para a execução de algumas sub-rotinas
 
