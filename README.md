@@ -36,12 +36,13 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - Elevação de privilégios para a execução de algumas sub-rotinas
 
 ## Como Executar
-1. Abra o PowerShell
-2. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script
+1. Descomprima o pacote .7z
+2. Abra o PowerShell
+3. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script
 ```
 Get-Item D:\Autopilot-22.1.1.ps1 | Unblock-File
 ```
-3. Execute o script
+4. Execute o script
 ```
 D:\Autopilot-22.1.1.ps1
 ```
