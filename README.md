@@ -30,19 +30,23 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 
 ## Requisitos
 - [Windows](https://www.microsoft.com/windows) 10+
-- [Terminal](https://www.github.com/microsoft/terminal) *opcional*
+- [Terminal](https://www.github.com/microsoft/terminal) *recomendado*
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0+
 - [7-Zip](https://www.7-zip.org) 21.07+
 - Elevação de privilégios para a execução de algumas sub-rotinas
 
 ## Como Executar
 1. Abra o PowerShell
-2. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script usando o comando **Get-Item D:\Autopilot-22.1.1.ps1 | Unblock-File**
-3. Execute o script com o comando **D:\Autopilot-22.1.1.ps1**
-
-**Certifique-se de informar o local correto onde o script foi salvo.*
-
+2. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script
+```
+Get-Item D:\Autopilot-22.1.1.ps1 | Unblock-File
+```
+3. Execute o script
+```
+D:\Autopilot-22.1.1.ps1
+```
 ![](https://github.com/2uj1m28ohz/autopilot/blob/main/AutopilotTerminal.png)
+>NOTA: *Certifique-se de informar o local e nome corretos do script*
 
 [^1]:_Este é um projeto pessoal_.
 [^2]: [EVE Online](https://www.eveonline.com)
