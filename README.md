@@ -14,10 +14,10 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - Expurgar Arquivos de Usuário
 - Relatório da Bateria
 - Relatório de Eficiência Energética
-- SMART
+- Verificar Saúde dos Drives
 - Verificar Sistema de Arquivos
 - Desfragmentar
-- FlushDNS
+- Limpar Cache DNS
 - Gerenciar Administrador
 - Verificar Imagem do Sistema
 - Verificar Instalação do Sistema
