@@ -1,4 +1,4 @@
-![](https://github.com/2uj1m28ohz/autopilot/blob/main/AutopilotScreen.jpg)
+![](https://github.com/2uj1m28ohz/autopilot/blob/main/AutopilotScreen.png)
 
 ## Descrição
 Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para executar rotinas de backup e manutenção do sistema.
@@ -40,11 +40,11 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 2. Abra o PowerShell
 3. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script
 ```
-Get-Item D:\Autopilot-22.1.1.ps1 | Unblock-File
+Get-Item C:\Users\[Usuário]\Downloads\Autopilot-[Versão].ps1 | Unblock-File
 ```
 4. Execute o script
 ```
-D:\Autopilot-22.1.1.ps1
+C:\Users\[Usuário]\Downloads\Autopilot-[Versão].ps1
 ```
 ![](https://github.com/2uj1m28ohz/autopilot/blob/main/AutopilotTerminal.png)
 >NOTA: *Certifique-se de informar o local e nome corretos do script*
