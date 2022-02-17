@@ -49,6 +49,8 @@ C:\Users\[Usuário]\Downloads\Autopilot-[Versão].ps1
 ![](https://github.com/2uj1m28ohz/autopilot/blob/main/AutopilotTerminal.png)
 >NOTA: *Certifique-se de informar o local e nome corretos do script*
 
+:smiling_face_with_three_hearts: Imagem por [Austin Schmid](https://unsplash.com/photos/r7zjJ63kAPU)
+
 [^1]:_Este é um projeto pessoal_.
 [^2]: [EVE Online](https://www.eveonline.com)
 [^3]: [Suviving Mars](https://www.survivingmars.com)
