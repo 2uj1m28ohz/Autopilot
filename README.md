@@ -55,7 +55,7 @@ C:\Users\[Usuário]\Downloads\Autopilot-[Versão].ps1
 |Software|Autopilot-22.50.1.ps1|:white_check_mark:|
 |Licença|License.html|:white_check_mark:|
 |Readme|Readme.html|:white_check_mark:|
->NOTA: Você pode verificar a integridade do arquivo comparando seu hash com a código disponível na página de download da versão.
+>NOTA: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
 
 ## Atribuição
 :sunrise_over_mountains: Imagem de fundo por [@adrienolichon](https://unsplash.com/photos/RCAhiGJsUUE)
