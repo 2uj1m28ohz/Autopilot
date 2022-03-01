@@ -25,40 +25,45 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - Dispositivo
 - Sistema
 - Usuários
+- Configurações
+- Suporte
 - Ajuda
-- Updates
 - Sobre
 
 ## Requisitos
-- [Windows](https://www.microsoft.com/windows) 10+
-- [Terminal](https://www.github.com/microsoft/terminal) *recomendado*
-- [PowerShell](https://www.github.com/powershell/powershell) 7.2.0+
-- [7-Zip](https://www.7-zip.org) 21.07+
+- [Windows](https://www.microsoft.com/windows) 10 Build 10240
+- [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
+- [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
+- [7-Zip](https://www.7-zip.org) 21.07
 - Elevação de privilégios para a execução de algumas funcionalidades
 
 ## Como Executar
 1. Descomprima o pacote .7z
 2. Abra o PowerShell
-3. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script
+3. [Habilite](https://docs.microsoft.com/powershell/module/microsoft.powershell.security/set-executionpolicy) a execução de scripts para o usuário atual
 ```
-Get-Item C:\Users\[Usuário]\Downloads\Autopilot-[Versão].ps1 | Unblock-File
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
 ```
-4. Execute o script
+4. [Desbloqueie](https://docs.microsoft.com/powershell/module/microsoft.powershell.utility/unblock-file) o script
 ```
-C:\Users\[Usuário]\Downloads\Autopilot-[Versão].ps1
+Get-Item C:\Users\[Usuário]\Downloads\Autopilot-22.60.1.ps1 | Unblock-File
+```
+5. Execute o script
+```
+C:\Users\[Usuário]\Downloads\Autopilot-22.60.1.ps1
 ```
 >NOTA: Certifique-se de informar o local correto do script.
 
 ## Pacote
 |Item|Arquivo|Status|
 |:---|:---|:---:|
-|Software|Autopilot-22.50.1.ps1|:white_check_mark:|
+|Software|Autopilot-22.60.1.ps1|:white_check_mark:|
 |Licença|License.html|:white_check_mark:|
 |Readme|Readme.html|:white_check_mark:|
 >NOTA: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
 
 ## Atribuição
-:sunrise_over_mountains: Imagem de fundo por [@adrienolichon](https://unsplash.com/photos/RCAhiGJsUUE)
+:sunrise_over_mountains: Wallpaper por [Daniel Leone](https://unsplash.com/photos/g30P1zcOzXo)
 
 [^1]:Este é um projeto pessoal.
 [^2]:[EVE Online](https://www.eveonline.com)
