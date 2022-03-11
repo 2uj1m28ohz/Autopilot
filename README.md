@@ -31,7 +31,7 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - Sobre
 
 ## Requisitos
-- [Windows](https://www.microsoft.com/windows) 10 Build 10240
+- [Windows](https://www.microsoft.com/windows) 10 Build 10586
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
@@ -46,18 +46,18 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
 ```
 4. [Desbloqueie](https://docs.microsoft.com/powershell/module/microsoft.powershell.utility/unblock-file) o script
 ```
-Get-Item C:\Users\[Usuário]\Downloads\Autopilot-22.60.1.ps1 | Unblock-File
+Get-Item Autopilot.ps1 | Unblock-File
 ```
 5. Execute o script
 ```
-C:\Users\[Usuário]\Downloads\Autopilot-22.60.1.ps1
+.\Autopilot.ps1
 ```
 >NOTA: Certifique-se de informar o local correto do script.
 
 ## Pacote
 |Item|Arquivo|Status|
 |:---|:---|:---:|
-|Software|Autopilot-22.60.1.ps1|:white_check_mark:|
+|Software|Autopilot.ps1|:white_check_mark:|
 |Licença|License.html|:white_check_mark:|
 |Readme|Readme.html|:white_check_mark:|
 >NOTA: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
