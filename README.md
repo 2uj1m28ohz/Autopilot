@@ -7,7 +7,6 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - EVE Online[^2]
 - Surviving Mars[^3]
 - Aven Colony[^4]
-- Industries of Titan[^5]
 - Drivers
 - Exportar Backups
 - Expurgar Arquivos de Sistema
@@ -71,4 +70,3 @@ Get-Item Autopilot.ps1 | Unblock-File
 [^2]:[EVE Online](https://www.eveonline.com)
 [^3]:[Suviving Mars](https://www.survivingmars.com)
 [^4]:[Aven Colony](https://www.team17.com/games/aven-colony)
-[^5]:[Industries of Titan](https://braceyourselfgames.com/industries-of-titan)
