@@ -1,10 +1,11 @@
 [
   {
-    "Versao": "22.070.1"
+    "Versao": "22.080.1"
   },
   {
     "Suporte":
     [
+      {"Versao": "22.080.1", "Status": "1"},
       {"Versao": "22.070.1", "Status": "1"},
       {"Versao": "22.60.1", "Status": "1"},
       {"Versao": "22.50.1", "Status": "1"},
