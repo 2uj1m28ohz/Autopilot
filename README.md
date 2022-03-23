@@ -4,9 +4,9 @@
 Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para executar rotinas de backup e manutenção do sistema.
 
 ## Recursos
-- EVE Online[^2]
-- Surviving Mars[^3]
-- Aven Colony[^4]
+- EVE Online
+- Surviving Mars
+- Aven Colony
 - Drivers
 - Exportar Backups
 - Expurgar Arquivos de Sistema
@@ -37,7 +37,7 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - [7-Zip](https://www.7-zip.org) 21.07
 - Elevação de privilégios para a execução de algumas funcionalidades
 
-## Como Executar
+## Como Instalar
 1. Descomprima o pacote .7z
 2. Abra o PowerShell
 3. [Habilite](https://docs.microsoft.com/powershell/module/microsoft.powershell.security/set-executionpolicy) a execução de scripts para o usuário atual
@@ -64,9 +64,6 @@ Get-Item Autopilot.ps1 | Unblock-File
 >NOTA: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
 
 ## Atribuição
-:sunrise_over_mountains: Wallpaper por [Daniel Leone](https://unsplash.com/photos/g30P1zcOzXo)
+Wallpaper por [Daniel Leone](https://unsplash.com/photos/g30P1zcOzXo)
 
 [^1]:Este é um projeto pessoal.
-[^2]:[EVE Online](https://www.eveonline.com)
-[^3]:[Suviving Mars](https://www.survivingmars.com)
-[^4]:[Aven Colony](https://www.team17.com/games/aven-colony)
