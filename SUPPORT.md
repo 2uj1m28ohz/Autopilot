@@ -1,4 +1,4 @@
-## :sparkle: Política de Suporte
+# Política de Suporte
 ### O que significa fim de suporte?
 Uma versão sem suporte não receberá mais atualizações de software. Estão incluídas atualizações de recursos, correções e otimizações que podem adicionar novas funcionalidades, corrigir problemas, e otimizar o desempenho e a confiabilidade geral do software.
 
