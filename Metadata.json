@@ -1,7 +1,7 @@
 [
   {
-    "Atualizacao": "22.080.1",
-    "Desenvolvimento": "1"
+    "Desenvolvimento": "1",
+    "Atualizacao": "22.090.1"
   },
   {
     "Versoes":
@@ -9,7 +9,7 @@
       {"ID": "22.090.1", "Suporte": "1"},
       {"ID": "22.080.1", "Suporte": "1"},
       {"ID": "22.070.1", "Suporte": "1"},
-      {"ID": "22.60.1", "Suporte": "1"},
+      {"ID": "22.60.1", "Suporte": "0"},
       {"ID": "22.50.1", "Suporte": "0"},
       {"ID": "22.40.1", "Suporte": "0"},
       {"ID": "22.30.1", "Suporte": "0"},
