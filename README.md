@@ -32,19 +32,19 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - Sobre
 
 ## :desktop_computer: Requisitos
-- [Windows](https://www.microsoft.com/windows) 10 Build 15063
+- [Windows](https://www.microsoft.com/windows) 10 Build 16299
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
-- Elevação de privilégios para a execução de algumas funcionalidades
+- Elevação de privilégios
 
 ## :package: Pacote
 |Item|Arquivo|Status|
 |:---|:---|:---:|
 |Software|Autopilot.ps1|:white_check_mark:|
 |Licença|License.html|:white_check_mark:|
-|Readme|Readme.html|:white_check_mark:|
-> :shield: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
+|Leia-me|Readme.html|:white_check_mark:|
+> :shield: A integridade do pacote é verificada automaticamente ao instalar ou atualizar o software
 
 ## :arrow_down: Como Instalar
 1. Descomprima o pacote .7z
@@ -69,7 +69,7 @@ Get-Item Autopilot.ps1 | Unblock-File
 - [Código de Conduta](https://github.com/2uj1m28ohz/autopilot/blob/main/CODE_OF_CONDUCT.md)
 
 ## :clap: Atribuição
-Wallpaper por [Jacob Wall](https://unsplash.com/photos/J35x4qL0mS0)
+Wallpaper por [Jonny James](https://unsplash.com/photos/3no88nSvK88)
 
 [^1]:Este é um projeto pessoal
 [^2]:[EVE Online](https://www.eveonline.com)
