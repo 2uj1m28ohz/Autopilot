@@ -1,4 +1,4 @@
-## :package: Pacote
+## :package: Conteúdo do Pacote
 |Item|Arquivo|Status|
 |:---|:---|:---:|
 |Software|Autopilot.ps1|:white_check_mark:|
