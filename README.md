@@ -3,7 +3,7 @@
 ## :pencil2: Descrição
 Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para executar rotinas de backup e manutenção do sistema.
 
-## :sparkles: Recursos
+## :sparkles: Recursos de Software
 - EVE Online[^2]
 - Surviving Mars[^3]
 - Aven Colony[^4]
@@ -24,21 +24,19 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - Verificar Imagem do Sistema
 - Verificar Instalação do Sistema
 - Dispositivo
-- Sistema
-- Usuários
 - Configurações
 - Suporte
 - Ajuda
 - Sobre
 
-## :desktop_computer: Requisitos
-- [Windows](https://www.microsoft.com/windows) 10 Build 16299
+## :desktop_computer: Requisitos de Sistema
+- [Windows](https://www.microsoft.com/windows) 10 Build 17134
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
 - Elevação de privilégios
 
-## :package: Pacote
+## :package: Conteúdo do Pacote
 |Item|Arquivo|Status|
 |:---|:---|:---:|
 |Software|Autopilot.ps1|:white_check_mark:|
@@ -67,6 +65,8 @@ Get-Item Autopilot.ps1 | Unblock-File
 - [Política de Suporte](https://github.com/2uj1m28ohz/autopilot/blob/main/SUPPORT.md)
 - [Licença de Software](https://github.com/2uj1m28ohz/autopilot/blob/main/LICENSE)
 - [Código de Conduta](https://github.com/2uj1m28ohz/autopilot/blob/main/CODE_OF_CONDUCT.md)
+
+> :warning: Todas as outras marcas mencionadas são de propriedade de seus respectivos proprietários.
 
 ## :clap: Atribuição
 Wallpaper por [Jonny James](https://unsplash.com/photos/3no88nSvK88)
