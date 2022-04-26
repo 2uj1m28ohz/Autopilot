@@ -5,7 +5,7 @@ Uma versão sem suporte não está sujeita à garantia de atualização de softw
 ### 2. Quando termina o suporte à minha versão?
 Apenas as três versões recentes lançadas são cobertas pelo suporte e estão sujeitas à garantia de atualização de software. Se a versão instalada no seu dispositivo for compatível, instale as atualizações disponíveis para estar qualificado ao suporte.
 
-O fim do suporte ao software também ocorrerá 30 dias após o encerramento do seu ciclo de vida, quando o desenvolvimento é descontinuado e novas versões não serão lançadas. Para manter o suporte é necessário executar o Assistente de Migração, caso esteja disponível.
+O fim do suporte ao software também ocorrerá 30 dias após o encerramento do seu ciclo de vida, quando o desenvolvimento é descontinuado e novas versões não serão lançadas. Para manter o suporte é necessário executar o Assistente de Migração, caso esteja disponível. O software informará caso o desenvolvimento e/ou o suporte tenham sido encerrados.
 
 ### 3. Eu ainda poderei usar o software após o fim do suporte?
 Sim. Se você usar uma versão sem suporte, ela ainda funcionará, mas se tornará suscetível a erros e incompatibilidades de software.
