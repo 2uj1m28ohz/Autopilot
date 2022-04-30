@@ -1,7 +1,7 @@
 ![](https://github.com/2uj1m28ohz/autopilot/blob/main/Screenshot.png)
 
 ## :pencil2: Descrição
-Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para executar rotinas de backup e manutenção do sistema.
+Autopilot[^1] executa backup de dados e rotinas de manutenção do sistema.
 
 ## :sparkles: Recursos de Software
 - EVE Online[^2]
@@ -13,13 +13,13 @@ Autopilot[^1] é um terminal app escrito em shell script e desenvolvido para exe
 - Expurgar Arquivos de Sistema
 - Expurgar Arquivos de Software
 - Expurgar Arquivos de Usuário
+- Expurgar Cache DNS
 - Relatório da Bateria
 - Relatório de Eficiência Energética
 - Verificar Saúde dos Drives
 - Verificar Sistema de Arquivos
 - Gerenciar Aplicativos
 - Desfragmentar
-- Limpar Cache DNS
 - Gerenciar Administrador
 - Verificar Imagem do Sistema
 - Verificar Instalação do Sistema
@@ -69,7 +69,7 @@ Get-Item Autopilot.ps1 | Unblock-File
 > :warning: Todas as outras marcas mencionadas são de propriedade de seus respectivos proprietários.
 
 ## :clap: Atribuição
-Wallpaper por [Jonny James](https://unsplash.com/photos/3no88nSvK88)
+Wallpaper por [Marc Linnemann](https://unsplash.com/photos/wDx3q0yb7fk)
 
 [^1]:Este é um projeto pessoal
 [^2]:[EVE Online](https://www.eveonline.com)
