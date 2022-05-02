@@ -14,4 +14,4 @@ Sim. Se você usar uma versão sem suporte, ela ainda funcionará, mas se tornar
 Para receber atualizações basta estar conectado à internet. Ao iniciar, o software buscará e instalará atualizações automaticamente. Se o suporte à versão instalada no seu dispositivo for encerrado, será necessário baixar e instalar a atualização manualmente.
 
 ### 5. Como entrar em contato com o Suporte?
-Entre em contato via mensagem privada no [Twitter](https://twitter.com/hd53r7us3e). Sua resposta será direcionada o mais breve possível.
+Utilize [Discussions](https://github.com/2uj1m28ohz/autopilot/discussions) para obter suporte, sugerir novas ideias e reportar problemas. Sua resposta será direcionada o mais breve possível.
