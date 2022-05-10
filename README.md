@@ -30,7 +30,7 @@ Autopilot[^1] executa backup de dados e rotinas de manutenção do sistema.
 - Sobre
 
 ## :desktop_computer: Requisitos de Sistema
-- [Windows](https://www.microsoft.com/windows) 10 Build 17134
+- [Windows](https://www.microsoft.com/windows) 10 Build 18362
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
@@ -42,20 +42,20 @@ Autopilot[^1] executa backup de dados e rotinas de manutenção do sistema.
 |Software|Autopilot.ps1|:white_check_mark:|
 |Licença|License.html|:white_check_mark:|
 |Leia-me|Readme.html|:white_check_mark:|
-> :shield: A integridade do pacote é verificada automaticamente ao instalar ou atualizar o software
+> :shield: A integridade do pacote é verificada automaticamente ao instalar ou atualizar o software.
 
 ## :arrow_down: Como Instalar
-1. Descomprima o pacote .7z
+1. Descomprima o pacote
 2. Abra o PowerShell
-3. [Habilite](https://docs.microsoft.com/powershell/module/microsoft.powershell.security/set-executionpolicy) a execução de scripts para o usuário atual
+3. [Habilite](https://docs.microsoft.com/powershell/module/microsoft.powershell.security/set-executionpolicy) a execução de scripts para o usuário atual:
 ```
 Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
 ```
-4. [Desbloqueie](https://docs.microsoft.com/powershell/module/microsoft.powershell.utility/unblock-file) o script
+4. [Desbloqueie](https://docs.microsoft.com/powershell/module/microsoft.powershell.utility/unblock-file) o script:
 ```
 Get-Item Autopilot.ps1 | Unblock-File
 ```
-5. Execute o script
+5. Execute o script:
 ```
 .\Autopilot.ps1
 ```
@@ -69,7 +69,7 @@ Get-Item Autopilot.ps1 | Unblock-File
 > :warning: Todas as outras marcas mencionadas são de propriedade de seus respectivos proprietários.
 
 ## :clap: Atribuição
-Wallpaper por [Marc Linnemann](https://unsplash.com/photos/wDx3q0yb7fk)
+Wallpaper por [Martin Adams](https://unsplash.com/photos/MpTdvXlAsVE)
 
 [^1]:Este é um projeto pessoal
 [^2]:[EVE Online](https://www.eveonline.com)
