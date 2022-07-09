@@ -1,7 +1,13 @@
 ![](https://github.com/2uj1m28ohz/autopilot/blob/main/Screenshot.png)
 
 ## :pencil2: Descrição
-Autopilot[^1] executa backup de dados e rotinas de manutenção do sistema.
+Autopilot[^1] agora se chama [Workflow](https://github.com/2uj1m28ohz/workflow) e está em um novo repositório.
+
+> :school_satchel: Execute o Assistente de Migração para manter o suporte.
+
+> :notebook_with_decorative_cover: Leia mais em [Política de Suporte](https://github.com/2uj1m28ohz/autopilot/blob/main/SUPPORT.md).
+
+> :watch: Este repositório permanecerá ativo até 31/08/2022.
 
 ## :sparkles: Recursos de Software
 - EVE Online[^2]
@@ -30,7 +36,7 @@ Autopilot[^1] executa backup de dados e rotinas de manutenção do sistema.
 - Sobre
 
 ## :desktop_computer: Requisitos de Sistema
-- [Windows](https://www.microsoft.com/windows) 10 Build 18362
+- [Windows](https://www.microsoft.com/windows) 10 Build 18363
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
